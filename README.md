@@ -1,5 +1,5 @@
-setCameraToView
-=================
+Houdini-SetViewToCamera
+=======================
 
 Description
 -----------
@@ -9,7 +9,7 @@ Houdini shelf tool that saves the current view transformation matrix to the came
 Installation & Usage
 --------------------
 
-Just fill in the blanks and place in your Cinema 4D plugins directory.
+Drop the .shelf file and icon into your toolbar folder in your Houdini preferences directory.
 
 Legal
 -----
@@ -17,7 +17,7 @@ Legal
 THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS "AS IS" AND ANY
 EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL 990ADJUSTMENTS OR ERWIN SANTACRUZ AND CONTRIBUTORS
+DISCLAIMED. IN NO EVENT SHALL HOUDINITRICKS, ERWIN SANTACRUZ AND CONTRIBUTORS
 BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
 DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
 LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
@@ -29,9 +29,9 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 Thanks!
 
-Erwin
+Erwin  
 [www.houdinitricks.com](http://www.houdinitricks.com/)  
-[Twitter](http://www.twitter.com/houdinitricks/)
+[@houdiniTricks](http://www.twitter.com/houdinitricks/)
 
 [www.990adjustments.com](http://www.990adjustments.com/)  
-[Twitter](http://www.twitter.com/990adjustments/)
+[990adjustments](http://www.twitter.com/990adjustments/)

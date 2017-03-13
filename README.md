@@ -9,7 +9,7 @@ Houdini shelf tool that saves the current view transformation matrix to the came
 Installation & Usage
 --------------------
 
-Drop the .shelf file and icon into your toolbar folder in your Houdini preferences directory.
+Drop the .shelf file and icon into your toolbar folder located in your Houdini preferences directory.
 
 Legal
 -----

@@ -17,7 +17,7 @@ try:
     # camera selection
     cam = hou.selectedNodes()[0]
     saveViewportToCam(cam)
-    setStatusMessage("Camera view set", severity=hou.severityType.Message)
+    hou.ui.setStatusMessage("Camera view set", severity=hou.severityType.Message)
     
 except IndexError:
     hou.ui.displayMessage("Please select a camera.", severity=hou.severityType.Error, title="No camera selected")
